@@ -1,0 +1,6 @@
+!.gitignore
+Dump/**
+.terraform
+**/out*.*
+**/*.tfstate
+Misc/commands.txt
