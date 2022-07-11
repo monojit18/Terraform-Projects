@@ -1,5 +1,6 @@
 !.gitignore
-Dump/**
+**/.DS_Store
+**/Dump
 .terraform
 **/out*.*
 **/*.tfstate
